@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QijzcqxPAfO9nPHQNfEmCn4Wd4UZhuXQP9JC/U3kSdFtUN0+6BMAb3Qkys3nJNW3vlV9vHn7ynikLYiaaAzq9w==",
+  "success": true,
+  "projectFilePath": "/Users/akash/Documents/GitHub/flutnet/flutnet.csproj",
+  "expectedPackageFiles": [
+    "/Users/akash/.nuget/packages/mcmaster.extensions.commandlineutils/4.1.0/mcmaster.extensions.commandlineutils.4.1.0.nupkg.sha512",
+    "/Users/akash/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
